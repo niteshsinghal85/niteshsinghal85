@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Nitesh Singhal
-
-## 🧑‍💻 Software Architect | Open Source Contributor | Tech Explorer
+# 👋 Hi, I'm Nitesh Singhal | Software Architect
 
 I’m passionate about designing scalable systems and sharing knowledge through open source.  
 GitHub is where I collaborate, contribute, and give back to the developer community.
@@ -43,5 +41,4 @@ GitHub is where I collaborate, contribute, and give back to the developer commun
 - [Portfolio/Blog](https://medium.com/@niteshsinghal85)
 
 ---
-
 ⭐️ Open source thrives on collaboration — let’s build something impactful together!
